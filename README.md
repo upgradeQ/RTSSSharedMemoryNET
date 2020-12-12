@@ -2,7 +2,7 @@ RTSSSharedMemoryNET
 ===================
 
 .NET implementation for the RivaTuner Statistics Server shared memory feature,
-build with msbuild.exe 64 bit version.
+build with msbuild.exe 64 bit version. Unlock .dll via RMB Properties>General> Unblock
 Fork notes:
 - added UpdatePosition, UpdateColor
 - max 7 entries, position and color are global for all of them.
