@@ -2,7 +2,7 @@ RTSSSharedMemoryNET
 ===================
 
 .NET implementation for the RivaTuner Statistics Server shared memory feature,
-build with msbuild.exe 64 bit version. Unlock .dll via RMB Properties>General> Unblock
+build with msbuild.exe 64 bit version. Unlock .dll via RMB Properties>General> Unblock . Python version (64 or 32 bit)  must match library version.  
 Fork notes:
 - added UpdatePosition, UpdateColor
 - max 7 entries, position and color are global for all of them.
