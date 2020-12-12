@@ -8,5 +8,6 @@ Fork notes:
 - max 7 entries, position and color are global for all of them.
 - entry can contain newlines `\n`
 - Text should be no longer than 4095 chars once converted to ANSI. Lower case looks awful.
+
 See also:
 https://github.com/mkullber/HWiNFO-RTSS
