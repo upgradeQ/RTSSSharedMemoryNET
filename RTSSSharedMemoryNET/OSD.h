@@ -28,6 +28,8 @@ namespace RTSSSharedMemoryNET {
         }
 
         void Update(String^ text);
+        void UpdatePosition(DWORD x, DWORD y);
+        void UpdateColor(DWORD argb);
         static array<OSDEntry^>^ GetOSDEntries();
         static array<AppEntry^>^ GetAppEntries();
 
