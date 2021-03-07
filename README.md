@@ -10,4 +10,4 @@ Fork notes:
 - Text should be no longer than 4095 chars once converted to ANSI. Lower case looks awful.
 
 See also:
-https://github.com/mkullber/HWiNFO-RTSS
+https://github.com/mkullber/HWiNFO-RTSS ,[other in game overlays](https://github.com/upgradeQ/Daylight)
